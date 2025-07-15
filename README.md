@@ -1,6 +1,6 @@
 # 5pc_1mpact
 P0rtf0l10
 
-WIP = Examples to follow
+This constitutes part of my professional portfolio, using examples as proof of understanding th concepts.
 
 
